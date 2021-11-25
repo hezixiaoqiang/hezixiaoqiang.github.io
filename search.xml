@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2021/11/24/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="http://xxx/aplayer.min.css"><script src="http://xxx/aplayer.min.js" class="aplayer-secondary-script-marker"></script><script>var meting_api='http://xxx/api.php?server=:server&type=:type&id=:id&r=:r'</script><script class="meting-secondary-script-marker" src="http://xxx/Meing.min.js"></script><p>Welcome to 禾子小强的个人博客</p>
+    <content><![CDATA[<p>Welcome to 禾子小强的个人博客</p>
 <p>报告完毕~</p>
 ]]></content>
   </entry>
