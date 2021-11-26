@@ -6,7 +6,7 @@
   <link href="https://hezixiaoqiang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hezixiaoqiang.github.io/"/>
-  <updated>2021-11-25T07:18:45.900Z</updated>
+  <updated>2021-11-26T01:58:09.830Z</updated>
   <id>https://hezixiaoqiang.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="https://hezixiaoqiang.github.io/2021/11/26/first/"/>
+    <id>https://hezixiaoqiang.github.io/2021/11/26/first/</id>
+    <published>2021-11-26T01:56:40.000Z</published>
+    <updated>2021-11-26T01:58:09.830Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的第一篇博客&lt;/p&gt;
+&lt;p&gt;报告完毕~&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
